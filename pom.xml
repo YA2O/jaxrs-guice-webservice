@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>bzh.ya2o</groupId>
-  <artifactId>restful-webservice</artifactId>
+  <artifactId>jaxrs-guice-webservice</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
